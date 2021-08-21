@@ -3,7 +3,9 @@
     "getListLecon":"https://generic-stat01.000webhostapp.com/getListLecon.php",
     "getLecon":"https://generic-stat01.000webhostapp.com/getLecon.php",
     "getDoc": "https://generic-stat01.000webhostapp.com/getDoc01.php",
-    "generatePDF": "https://generic-stat01.000webhostapp.com/generatePDF01.php",
+    "generatePDF": "https://generic-stat01.000webhostapp.com/generatePDF02.php",
+    "generateCorrPDF": "https://generic-stat01.000webhostapp.com/generateCorrPDF01.php",    
+    "getListEx": "https://generic-stat01.000webhostapp.com/getListEx2.php"
     "getcount": "https://topitjobs.000webhostapp.com/getByCountryById.php",
     "sumbytype": "https://topitjobs.000webhostapp.com/getSumByCountryByType.php",
     "totcount":"https://topitjobs.000webhostapp.com/getSumByCountry.php",
