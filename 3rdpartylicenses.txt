@@ -949,25 +949,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/material/sort
-
-@angular/material/table
-
-@angular/material/form-field
-
-@angular/material/tooltip
-
-@angular/material/core
-
-@angular/material/select
+@angular/material/dialog
 
 @angular/material/button
 
-@angular/material/paginator
-
-@angular/material/dialog
-
 @angular/material/datepicker
+
+@angular/material/tooltip
 
 @angular/material/snack-bar
 
