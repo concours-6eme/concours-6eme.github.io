@@ -1,33 +1,12 @@
 {
-    "getListMat":"https://generic-stat01.000webhostapp.com/getListMat.php",
-    "getListLecon":"https://generic-stat01.000webhostapp.com/getListLecon.php",
-    "getLecon":"https://generic-stat01.000webhostapp.com/getLecon.php",
-    "getDoc": "https://generic-stat01.000webhostapp.com/getDoc01.php",
-    "generatePDF": "https://generic-stat01.000webhostapp.com/generatePDF02.php",
-    "generateCorrPDF": "https://generic-stat01.000webhostapp.com/generateCorrPDF01.php",    
-    "getListEx": "https://generic-stat01.000webhostapp.com/getListEx2.php",
-    "getcount": "https://topitjobs.000webhostapp.com/getByCountryById.php",
-    "sumbytype": "https://topitjobs.000webhostapp.com/getSumByCountryByType.php",
-    "totcount":"https://topitjobs.000webhostapp.com/getSumByCountry.php",
-    "sumAllCouByTYpe": "https://topitjobs.000webhostapp.com/getSumAllCountryByType.php",
-    "sumAllCouBySkill": "https://topitjobs.000webhostapp.com/getSumAllCountryBySkill.php",
-    "getListBySkill": "https://topitjobs.000webhostapp.com/getListBySkill.php",
-    "getListBySkillByDate": "https://topitjobs.000webhostapp.com/getListBySkillByDate.php",
-    "getSkillDet": "https://topitjobs.000webhostapp.com/getSkillDet.php",
-    "getCatDet": "https://topitjobs.000webhostapp.com/getCatDet.php",
-    "getListCat": "https://topitjobs.000webhostapp.com/getListCat.php",
-   "uploadCV": "https://topitjobs.000webhostapp.com/uploadPDF.php",
-     "sumAllCouBySkillByDate": "https://topitjobs.000webhostapp.com/getSumAllCountryBySkillByDate.php",
-    "getAllDataBySkill": "https://topitjobs.000webhostapp.com/getAllDataBySkill.php",
-    "getSumByCountryHist": "https://topitjobs.000webhostapp.com/getSumByCountryHist.php",
-    "getSumByCountryByTypeHist": "https://topitjobs.000webhostapp.com/getSumByCountryByTypeHist.php",
-    "getAllListByCountryHist": "https://topitjobs.000webhostapp.com/getAllListByCountryHist.php",
-    "getSumAllCountryByTypeHist": "https://topitjobs.000webhostapp.com/getSumAllCountryByTypeHist.php",
-    "getAllListByCountryByTypeHist": "https://topitjobs.000webhostapp.com/getAllListByCountryByTypeHist.php",
-    "getListByTypeHist": "https://topitjobs.000webhostapp.com/getListByTypeHist.php",
-    "getSumAllCountryHist": "https://topitjobs.000webhostapp.com/getSumAllCountryHist.php",
-    "getListLowSkills": "https://topitjobs.000webhostapp.com/getListLowSkills.php"
 
-    
+   "getListMat":"http://generic-stat01.000webhostapp.com/getListMat.php",
+    "getListLecon":"http://generic-stat01.000webhostapp.com/getListLecon.php",
+    "getLecon":"http://generic-stat01.000webhostapp.com/getLecon.php",
+    "getDoc": "http://generic-stat01.000webhostapp.com/getDoc01Enc.php",
+    "generatePDF": "http://generic-stat01.000webhostapp.com/generatePDF02Enc.php",
+    "generateCorrPDF": "http://generic-stat01.000webhostapp.com/generateCorrPDF01Enc.php",    
+    "getListEx": "http://generic-stat01.000webhostapp.com/getListEx2.php"
+
     
 }
