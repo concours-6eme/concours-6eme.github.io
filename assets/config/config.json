@@ -1,0 +1,13 @@
+{
+    
+    "getListMat":"http://127.0.0.1/sixeme51/getListMat.php",
+    "getListLecon":"http://127.0.0.1/sixeme51/getListLecon.php",
+    "getLecon":"http://127.0.0.1/sixeme51/getLecon.php",
+    "getDoc": "http://127.0.0.1/sixeme51/getDoc01Enc.php",
+    "generatePDF": "http://127.0.0.1/sixeme51/generatePDF02Enc.php",
+    "generateCorrPDF": "http://127.0.0.1/sixeme51/generateCorrPDF01Enc.php",    
+    "getListEx": "http://127.0.0.1/sixeme51/getListEx2.php",
+    "getStat": "http://127.0.0.1/sixeme51/getStat.php"
+
+}
+
