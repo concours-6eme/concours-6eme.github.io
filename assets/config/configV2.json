@@ -6,7 +6,8 @@
     "getDoc": "http://generic-stat01.000webhostapp.com/getDoc01Enc.php",
     "generatePDF": "http://generic-stat01.000webhostapp.com/generatePDF02Enc.php",
     "generateCorrPDF": "http://generic-stat01.000webhostapp.com/generateCorrPDF01Enc.php",    
-    "getListEx": "http://generic-stat01.000webhostapp.com/getListEx2.php"
+    "getListEx": "http://generic-stat01.000webhostapp.com/getListEx2.php",
+    "getStat": "http://generic-stat01.000webhostapp.com/getStat.php"
 
     
 }
