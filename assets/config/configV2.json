@@ -1,13 +1,14 @@
 {
 
-   "getListMat":"https://concours6.000webhostapp.com/getListMat.php",
-    "getListLecon":"https://concours6.000webhostapp.com/getListLecon.php",
-    "getLecon":"https://concours6.000webhostapp.com/getLecon.php",
-    "getDoc": "https://concours6.000webhostapp.com/getDoc01Enc.php",
-    "generatePDF": "https://concours6.000webhostapp.com/generatePDF02Enc.php",
-    "generateCorrPDF": "https://concours6.000webhostapp.com/generateCorrPDF01Enc.php",    
-    "getListEx": "https://concours6.000webhostapp.com/getListEx2.php",
-    "getStat": "https://concours6.000webhostapp.com/getStat.php"
+   "getListMat":"https://concours6.atwebpages.com/getListMat.php",
+    "getListLecon":"https://concours6.atwebpages.com/getListLecon.php",
+    "getLecon":"https://concours6.atwebpages.com/getLecon.php",
+    "getDoc": "https://concours6.atwebpages.com/getDoc01Enc.php",
+    "generatePDF": "https://concours6.atwebpages.com/generatePDF02Enc.php",
+    "generateCorrPDF": "https://concours6.atwebpages.com/generateCorrPDF01Enc.php",    
+    "getListEx": "https://concours6.atwebpages.com/getListEx2.php",
+    "getStat": "https://concours6.atwebpages.com/getStat.php"
 
+   
     
 }
