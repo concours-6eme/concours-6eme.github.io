@@ -1,13 +1,13 @@
 {
 
-   "getListMat":"http://concours6.atwebpages.com/getListMat.php",
-    "getListLecon":"http://concours6.atwebpages.com/getListLecon.php",
-    "getLecon":"http://concours6.atwebpages.com/getLecon.php",
-    "getDoc": "http://concours6.atwebpages.com/getDoc01Enc.php",
-    "generatePDF": "http://concours6.atwebpages.com/generatePDF02Enc.php",
-    "generateCorrPDF": "http://concours6.atwebpages.com/generateCorrPDF01Enc.php",    
-    "getListEx": "http://concours6.atwebpages.com/getListEx2.php",
-    "getStat": "http://concours6.atwebpages.com/getStat.php"
+   "getListMat":"https://con6.000webhost.com/getListMat.php",
+    "getListLecon":"https://con6.000webhost.com/getListLecon.php",
+    "getLecon":"https://con6.000webhost.com/getLecon.php",
+    "getDoc": "https://con6.000webhost.com/getDoc01Enc.php",
+    "generatePDF": "https://con6.000webhost.com/generatePDF02Enc.php",
+    "generateCorrPDF": "https://con6.000webhost.com/generateCorrPDF01Enc.php",    
+    "getListEx": "https://con6.000webhost.com/getListEx2.php",
+    "getStat": "https://con6.000webhost.com/getStat.php"
 
    
     
