@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8">
   <title>  التفوق في مناظرة السيزيام</title>
-  <base href=".">  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="assets/CO6.png">
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />  
 <meta http-equiv="Pragma" content="no-cache" />  
@@ -19,7 +20,34 @@
                 <div class="bounce3"></div>
             </div>
   </app-root>
-<script type="text/javascript" src="runtime.0c9b90ae1ab3441dbc40.js"></script><script type="text/javascript" src="polyfills.becfb1a1425e59c11339.js"></script><script type="text/javascript" src="scripts.b5ea1a3cf9f89977f873.js"></script><script type="text/javascript" src="main.66072ec88894f8e834af.js"></script></body>
+
+
+WWWW
+  <script>
+
+      var myVar="";
+      function fetchData() {
+        const url = 'https://zmartapps.github.io/bb.html'; // Replace with your desired URL
+  
+        fetch(url)
+          .then(response => {
+            if (!response.ok) {
+              throw new Error('Network response was not OK');
+            }
+            return response.text(); // or response.text() for plain text
+          })
+          .then(data => {
+              myVar = data;
+      //        alert("myVar="+myVar);
+              console.log('myVar='+myVar);
+          })
+          .catch(error => {
+            myVar = 'Error: ' + error.message;
+          });
+      }
+      fetchData();
+    </script>
+<script type="text/javascript" src="runtime.b6cc609aeaa9089a41e5.js"></script><script type="text/javascript" src="polyfills.becfb1a1425e59c11339.js"></script><script type="text/javascript" src="scripts.b5ea1a3cf9f89977f873.js"></script><script type="text/javascript" src="main.56ee89665ff199f635dd.js"></script></body>
 <style>
 
 .footer {
